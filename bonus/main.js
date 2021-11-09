@@ -6,7 +6,8 @@
 // ciclo v-for con list item all'interno, axios.get per prendere i dati dal database
 // Bonus
 // Far comparire gli indirizzi email solamente quando sono stati tutti generati.
-// era beforeMount invece che mounted?
+// era beforeMount invece che mounted???
+//in ogni caso ho messo v-if a monte, ora funziona sicuro
 
 
 const app = new Vue ({
